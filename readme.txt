@@ -1,7 +1,7 @@
 Git is a distributed version controller system.
 Git is a free software distributed under the GPL.
 Create a new file.
-git tracks changes
+git tracks change
 
 add some modifications
 
