@@ -4,3 +4,5 @@ Create new file.
 git tracks changes
 
 add some modifications
+
+connect the remote repository on GitHub
