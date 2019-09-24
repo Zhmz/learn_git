@@ -1,1 +1,1 @@
-This is a text on branch dev.
+This is a text on branch master.
